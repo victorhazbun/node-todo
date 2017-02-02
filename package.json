@@ -1,0 +1,25 @@
+{
+  "name": "node-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/victorhazbun/node-todo.git"
+  },
+  "author": "victor hazbun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorhazbun/node-todo/issues"
+  },
+  "homepage": "https://github.com/victorhazbun/node-todo#readme",
+  "devDependencies": {
+    "body-parser": "^1.16.0",
+    "ejs": "^2.5.5",
+    "express": "^4.14.1",
+    "mongoose": "^4.8.1"
+  }
+}
